@@ -1,0 +1,33 @@
+#Intellij
+*.iml
+
+#User specific configuration
+.idea/
+
+#OS specific files
+.DS_Store
+
+/captures
+.externalNativeBuild
+
+#Genereted files
+bin/
+gen/
+
+#Gradle files
+.gradle/
+build/
+
+#Build application files
+*.apk
+*.ap_
+
+#Java class files
+*.class
+
+#Local configuration file
+/local.properties
+
+#Log files
+*.log
+
